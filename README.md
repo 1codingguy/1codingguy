@@ -7,8 +7,18 @@
 
 ### 🌱 I’m currently learning:
 
-- ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
-- ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- <a href="https://soliditylang.org/">
+  <img
+    src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"
+  />
+</a>
+
+- <a href="https://nodejs.org/">
+  <img
+    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+  />
+</a>
+
 
 ### Familiar with:
 
