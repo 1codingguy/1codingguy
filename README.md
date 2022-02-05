@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1codingguy)](https://github.com/anuraghazra/github-readme-stats)
+- ⚡ Check out my full fledged React projects: 
+  - [cute-buddy e-commerce store](https://github.com/1codingguy/typescript-e-commerce)
+  - [React YouTube clone](https://github.com/1codingguy/react-youtube-clone)
+
+- 🌱 I’m currently learning:
+  -  ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 
 <!--
 **1codingguy/1codingguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +13,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
