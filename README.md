@@ -3,19 +3,9 @@
 - [cute-buddy e-commerce store](https://github.com/1codingguy/typescript-e-commerce)
 - [React YouTube clone](https://github.com/1codingguy/react-youtube-clone)
 
-### 🌱 I’m currently learning:
+### 🌱 I’m currently learning data structure and algorithm:
 
-- <a href="https://soliditylang.org/">
-    <img
-      src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"
-    />
-  </a>
-
-- <a href="https://nodejs.org/">
-    <img
-      src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-    />
-  </a>
+- Check out my LeetCode problems learning note in iPython notebook [here](https://github.com/1codingguy/LeetCode):
 
 ### Familiar with:
 
