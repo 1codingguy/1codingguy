@@ -1,12 +1,4 @@
-### 👋 Check out my full fledged React projects:
-
-- [cute-buddy e-commerce store](https://github.com/1codingguy/typescript-e-commerce)
-- [React YouTube clone](https://github.com/1codingguy/react-youtube-clone)
-
-### 🌱 I’m currently learning data structure and algorithm:
-
-- Check out my LeetCode problems learning note in iPython notebook [here](https://github.com/1codingguy/LeetCode):
-
+<!--
 ### Familiar with:
 
 <a href="https://reactjs.org/">
@@ -83,7 +75,7 @@
 - [Twitter](https://twitter.com/1codingguy)
 - [email](mailto:1codingguy@gmail.com)
 
-<!--
+
 **1codingguy/1codingguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
